@@ -22,7 +22,7 @@
 	},
 	"extra": {
 		"installer-paths": {
-            "simplemde-markdown/{$name}": ["etdsolutions/simplemde-markdown-editor"]
+            "simplemde/{$name}": ["etdsolutions/simplemde-markdown-editor"]
         }
 	}
 }
