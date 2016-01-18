@@ -18,5 +18,10 @@
 		"silverstripe/cms": "3.*",
 		"erusev/parsedown": "*",
 		"etdsolutions/simplemde-markdown-editor": "*"
+	},
+	"extra": {
+		"installer-paths": {
+            "silverstripe-simplemde-markdown/thirdparty/{$name}": ["etdsolutions/simplemde-markdown-editor"]
+        }
 	}
 }
