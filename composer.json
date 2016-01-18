@@ -22,7 +22,7 @@
 	},
 	"extra": {
 		"installer-paths": {
-            "silverstripe-simplemde-markdown/thirdparty/{$name}": ["etdsolutions/simplemde-markdown-editor"]
+            "simplemde-markdown/{$name}": ["etdsolutions/simplemde-markdown-editor"]
         }
 	}
 }
